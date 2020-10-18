@@ -1,0 +1,82 @@
+* {
+    font-family: 'Rajdhani', sans-serif;
+}
+body {
+    /* background-color: wheat; */
+    background-image: url(https://eskipaper.com/images/solid-color-wallpaper-5.jpg);
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+    margin-top: 5em;
+}
+
+img {
+    width: 30%;
+    margin: 1.4%;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2em;
+    color: #ffffff;
+    letter-spacing: 5px;
+    font-size: 1em;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+hr {
+    height: 5px;
+    background-color: #8b0e0e;
+    border: solid #8b0e0e 1px;
+    width: 40em;
+}
+
+footer {
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style: none;
+    text-align: center;    
+}
+
+li {
+    display: inline;
+}
+
+#uno {
+    padding-right: 1em;
+}
+
+#dos {
+    padding-left: 1em;
+}
+
+a:visited {
+    color: #ffffff;
+}
+a {
+    color: #fff;
+}
+
+.about {
+    text-align: center;
+    color: #ffffff;
+}
+
+.li-contact {
+    display: block;
+    padding: 1em;
+}
+
+#contact {
+    position: relative;
+    left: 1em;
+}
